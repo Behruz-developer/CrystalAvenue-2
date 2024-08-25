@@ -6,7 +6,7 @@ import Blocks_location from "./Components/Blocks_location/Blocks_location";
 import Location from "./Components/Location/Location";
 import Nav from "./Components/Nav/Nav";
 import Upcoming from "./Components/Upcoming/Upcoming";
-import img1 from "./assets/images/slider1.png";
+import img1 from "./assets/images/slider1.jpg";
 import img2 from "./assets/images/slider2.jpg";
 import img3 from "./assets/images/slider3.jpg";
 import Send_form from "./Components/Send_form/Send_form";
@@ -16,7 +16,7 @@ import { useEffect, useState } from "react";
 import Loading from "./Components/Loading/Loading";
 import { Helmet } from "react-helmet";
 import average from './assets/images/averag.jpg'
-import average2 from './assets/images/average1.png'
+import average2 from './assets/images/average1.jpg'
 import average3 from './assets/images/average2.png'
 import average4 from './assets/images/average3.jpg'
 
