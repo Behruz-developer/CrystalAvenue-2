@@ -18,7 +18,7 @@ import { Helmet } from "react-helmet";
 import average from './assets/images/averag.jpg'
 import average2 from './assets/images/average1.png'
 import average3 from './assets/images/average2.png'
-import average4 from './assets/images/average3.jpg'
+import average4 from './assets/images/average3.png'
 
 const App = () => {
   const [isLoading, setIsLoading] = useState(true);
