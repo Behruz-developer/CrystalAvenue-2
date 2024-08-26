@@ -33,9 +33,9 @@ const Footer = () => {
                 Sotuv bo‘limi
               </div>
               <p className="footer_location_text">
-                Samarqand viloyati Samarqand shahri
+                Fargʻona viloyati Fargʻona shahri
                 <br />
-                Rudakiy koʻchasi 205-uy
+                Murabbiylar koʻchasi 4-uy
               </p>
             </div>
             <div className="footer_social">
@@ -64,7 +64,7 @@ const Footer = () => {
           </div>
           <div className="footer_card2">
             <div >
-              <iframe className="map_container" src="https://yandex.com/map-widget/v1/?um=constructor%3A29b7c40e7212795570a1fce17669e7ca58f49870a94b1add3cff7b8fda9fbe67&amp;source=constructor" width="591" height="488" frameborder="0"></iframe>
+              <iframe className="map_container" src="https://yandex.com/map-widget/v1/?um=constructor%3A3ad84f4931c048516f34715d1110a5114ced41abbea631d851e021253d7d4e64&amp;source=constructor" width="609" height="461" frameborder="0"></iframe>
             </div>
           </div>
           <div className="footer_card3">
