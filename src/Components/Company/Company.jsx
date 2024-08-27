@@ -64,6 +64,9 @@ const Company = () => {
               <p className="company_text">
                 Biz bilan hamkorlik qilib, siz barqaror va mustahkam qurilish yechimlarini tanlaysiz. Biz sizning ishonchingizni oqlash va orzularingizdagi loyihani hayotga tatbiq etish uchun doim harakatdamiz!
               </p>
+              <p className="company_text">
+                <a href="https://www.txt.group/">www.txt.group</a> saytiga tashrif buyurib, kompaniya faoliyati haqida batafsil maʼlumot olishingiz mumkin.
+              </p>
             </div>
 
           </div>
