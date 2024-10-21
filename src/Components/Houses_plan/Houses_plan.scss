@@ -45,7 +45,7 @@
     }
     &_card_number {
         display: flex;
-        background: #FFDEA2;
+        background: #004F2E;
         border-radius: 32px;
         padding: 5px;
         @include media(650px) {
@@ -61,7 +61,7 @@
         line-height: 32px;
         text-align: center;
         transition: 0.2s;
-        color: black;
+        color: white;
         cursor: pointer;
         &.active {
             background-color: #fff;

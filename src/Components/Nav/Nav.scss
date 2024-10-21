@@ -121,7 +121,7 @@
                 left: 0;
                 transform: translateY(-150%);
                 width: 100%;
-                background: #FFDEA2;
+                background: #004F2E;
                 padding-top: 30px;
                 height: 100vh;
                 transition: .5s;
@@ -158,9 +158,7 @@
             color: #C0C0C0;
         }
 
-        @include media(1200px) {
-            color: #000;
-        }
+
     }
 
     &_card_right {
@@ -280,7 +278,7 @@
         display: block;
         width: 30px;
         height: 30px;
-        color: black;
+        color: #fff;
 
     }
 
@@ -298,13 +296,13 @@
 
         &_card {
             padding: 8px 16px;
-            background: #000;
+            background: #fff;
             border-radius: 8px;
         }
 
         &_icon {
             font-size: 25px;
-            color: #FFDEA2;
+            color: #004F2E;
         }
     }
 
@@ -369,5 +367,5 @@
     fill: white;
 }
 .contact2{
-    color: black;
+    color: #fff;
 }
